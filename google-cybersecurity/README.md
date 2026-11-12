@@ -16,3 +16,24 @@ Este diretório reúne minhas atividades práticas e projetos desenvolvidos dura
 Curso em andamento.
 
 As atividades serão documentadas progressivamente, com análises, aprendizados e evidências práticas produzidas durante os estudos.
+
+## Atividades práticas
+
+### Atividade 01 — Declaração profissional
+
+**Curso:** Fundamentos da Segurança Cibernética
+
+**Objetivo:** Desenvolver uma declaração profissional
+que apresente minhas competências, valores e objetivos
+de carreira em segurança cibernética.
+
+**Competências abordadas:**
+- Comunicação profissional
+- Ética em segurança cibernética
+- Proteção de informações
+- Planejamento de carreira
+
+**Documento desenvolvido:**
+
+[Visualizar minha declaração profissional](../declaração-profissional.md)
+
