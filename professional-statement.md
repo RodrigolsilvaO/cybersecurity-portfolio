@@ -7,3 +7,4 @@ Sou um profissional de Tecnologia da Informação, formado em Análise e Desenvo
 ## English
 
 I am an Information Technology professional with a degree in Systems Analysis and Development and experience in telecommunications, network infrastructure, technical support, and software development. I am interested in cybersecurity, particularly protecting networks, systems, and information, and I am developing my skills in threat analysis, vulnerability identification, and risk management. I value ethics, responsibility, and continuous learning, and I aim to help organizations protect the confidentiality, integrity, and availability of their assets.
+
