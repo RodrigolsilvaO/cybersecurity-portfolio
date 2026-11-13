@@ -32,4 +32,4 @@ Este repositório será atualizado com estudos, laboratórios, análises de segu
 
 ## Declaração profissional
 
-[Leia minha declaração profissional](./declaração-profissional.md)
+[Leia minha declaração profissional](./professional-statement.md)
