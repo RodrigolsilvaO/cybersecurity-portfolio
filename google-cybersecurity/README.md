@@ -35,4 +35,4 @@ de carreira em segurança cibernética.
 
 **Documento desenvolvido:**
 
-[Visualizar minha declaração profissional](../declaração-profissional.md)
+[Visualizar minha declaração profissional](../professional-statement.md)
